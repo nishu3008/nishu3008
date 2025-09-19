@@ -82,7 +82,7 @@ Crack a role in top product-based companies (FAANG / Microsoft / Google)
 
 www.linkedin.com/in/nishu-kumari-219897257
 www.instagram.com/@nishuaaaaa
-wwww.github.com//nishu3008
+www.github.com//nishu3008
 
 
 
