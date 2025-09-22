@@ -36,14 +36,19 @@ Welcome to my GitHub profile! I'm passionate about building real-world projects,
 
 ---
 
-## 📌 Featured Projects
-- [Airline Management System](#)  
-- [Calculator](#)  
-- [To-Do List App](#)
-- AI tool finder(#)
-- coffee shop(#)
-- portfolio(#)  
--  
+## 📌 Featured Projects 
+ ✈️ **Airline Management System** – Flight booking & management system made in c++  
+- 🧮 **Calculator** – GUI-based calculator in Python  
+- ✅ **To-Do List App** – Task management with CRUD features made in python 
+- ♻️ **SafaaiSetu – Civic Issue Reporting App** – Report garbage/potholes to govt. workers (Hackathon Project)  
+- 📊 **Phishing Detection Platform** – AI-based system to detect malicious URLs  
+- 🌐 **Career Guidance Website** – Helps students with career pathways and resources  
+- 🛒 **E-Commerce Website (Basic)** – Online shopping system prototype  
+- 💼 **Project Portfolio Website** – Personal portfolio showcasing skills & projects  
+- 🤖 **AI Tool Finder** – Web app listing AI tools category-wise (Development, Coding, Design, etc.)  
+- ☕ **Coffee Shop Website** – Responsive coffee shop landing page with menu & order section  
+ 
+  
 
 ---
 
