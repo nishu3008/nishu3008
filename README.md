@@ -39,7 +39,10 @@ Welcome to my GitHub profile! I'm passionate about building real-world projects,
 ## 📌 Featured Projects
 - [Airline Management System](#)  
 - [Calculator](#)  
-- [To-Do List App](#)  
+- [To-Do List App](#)
+- AI tool finder(#)
+- coffee shop(#)
+- portfolio(#)  
 -  
 
 ---
